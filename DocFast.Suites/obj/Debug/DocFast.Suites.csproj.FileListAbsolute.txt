@@ -1,0 +1,17 @@
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\DocFast.Suites.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\DocFast.Suites.pdb
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\DocFast.WebObjects.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\nunit.framework.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\SeleNUnit.WebObjects.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\WebDriver.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\WebDriver.Support.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\SeleNUnit.WebObjects.pdb
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\DocFast.WebObjects.pdb
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\nunit.framework.xml
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\WebDriver.pdb
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\WebDriver.xml
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\WebDriver.Support.pdb
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\bin\Debug\WebDriver.Support.xml
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\obj\Debug\DocFast.Suites.csprojResolveAssemblyReference.cache
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\obj\Debug\DocFast.Suites.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast.Suites\obj\Debug\DocFast.Suites.pdb

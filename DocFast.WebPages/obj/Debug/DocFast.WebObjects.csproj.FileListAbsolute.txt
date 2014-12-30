@@ -1,0 +1,6 @@
+C:\Users\Tery\Documents\Visual Studio 2013\Projects\DocFast\DocFast.WebPages\bin\Debug\DocFast.WebObjects.dll.config
+C:\Users\Tery\Documents\Visual Studio 2013\Projects\DocFast\DocFast.WebPages\bin\Debug\DocFast.WebObjects.dll
+C:\Users\Tery\Documents\Visual Studio 2013\Projects\DocFast\DocFast.WebPages\bin\Debug\DocFast.WebObjects.pdb
+C:\Users\Tery\Documents\Visual Studio 2013\Projects\DocFast\DocFast.WebPages\obj\Debug\DocFast.WebObjects.csprojResolveAssemblyReference.cache
+C:\Users\Tery\Documents\Visual Studio 2013\Projects\DocFast\DocFast.WebPages\obj\Debug\DocFast.WebObjects.dll
+C:\Users\Tery\Documents\Visual Studio 2013\Projects\DocFast\DocFast.WebPages\obj\Debug\DocFast.WebObjects.pdb

@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2012\Projects\TestAutomation_SeleNUnit\SeleNUnit.WebPages\bin\Debug\SeleNUnit.WebPages.dll
+c:\users\mariana\documents\visual studio 2012\Projects\TestAutomation_SeleNUnit\SeleNUnit.WebPages\bin\Debug\SeleNUnit.WebPages.pdb
+c:\users\mariana\documents\visual studio 2012\Projects\TestAutomation_SeleNUnit\SeleNUnit.WebPages\obj\Debug\SeleNUnit.WebPages.csprojResolveAssemblyReference.cache
+c:\users\mariana\documents\visual studio 2012\Projects\TestAutomation_SeleNUnit\SeleNUnit.WebPages\obj\Debug\SeleNUnit.WebPages.dll
+c:\users\mariana\documents\visual studio 2012\Projects\TestAutomation_SeleNUnit\SeleNUnit.WebPages\obj\Debug\SeleNUnit.WebPages.pdb

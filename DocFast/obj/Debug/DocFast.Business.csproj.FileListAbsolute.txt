@@ -1,0 +1,2 @@
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\obj\Debug\DocFast.Resource.resources
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\obj\Debug\DocFast.Business.csproj.GenerateResource.Cache
